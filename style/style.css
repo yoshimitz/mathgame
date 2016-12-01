@@ -1,0 +1,13 @@
+.error {
+    color: red;
+    text-align: center;
+}
+
+.correct {
+    color: lawngreen;
+}
+
+.container {
+    text-align: center;
+    width: 80%;
+}
